@@ -1,0 +1,4 @@
+[03-Apr-2015 22:53:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/akbarprm/public_html/ini.php on line 7
+[03-Apr-2015 22:53:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/akbarprm/public_html/ini.php on line 7
+[03-Apr-2015 22:53:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/akbarprm/public_html/ini.php on line 7
+[03-Apr-2015 22:53:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/akbarprm/public_html/ini.php on line 7

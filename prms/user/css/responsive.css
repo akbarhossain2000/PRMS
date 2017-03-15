@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width : 768px){
+	.header_title h2 {
+		font-size:24px;	
+	}
+	.menu_box{
+		width:210px;	
+	}
+	
+	
+}
+
+@media only screen and (max-width : 640px){
+	.header_title h2 {
+		font-size:20px;	
+	}
+	.menu_box{
+		width:177px;
+	}
+	nav ul#menu li a{
+		font-size:14px;	
+	}
+}
+
+@media only screen and (max-width : 480px){
+
+	.social_icon {
+	  margin-bottom: 10px;
+	}
+	.header_title h2{
+		font-size:16px;
+	}
+}
+
+@media only screen and (max-width : 320px){
+	.pull-right {
+	  float: left!important;
+	}
+	.social_icon {
+	  margin-bottom: 10px;
+	}
+	.header_title h2{
+		font-size:14px;
+	}
+}
+
